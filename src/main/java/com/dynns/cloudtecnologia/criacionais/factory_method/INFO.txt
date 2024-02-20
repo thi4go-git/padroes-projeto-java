@@ -1,4 +1,4 @@
-Definição (GOF) FactoryMethod:
+==> Definição (GOF) FactoryMethod:
 Um padrão que define uma interface/classe abstrata para criar um objeto,
 mas permite às classes decidirem qual Objeto instanciar.
 O FactoryMethod permite a uma classe deferir a instanciação para subclasses.
